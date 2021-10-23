@@ -15,5 +15,7 @@
 <div> 
  <a href = "mailto:victorgeneroso@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/victor-generoso-ab9389132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/VictorGeneroso/VictorGeneroso/blob/output/github-contribution-grid-snake.svg)
   
   </div>
